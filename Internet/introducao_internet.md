@@ -10,7 +10,7 @@ Você em sua casa pode pode ter uma rede de computadores e dispositivios. Seu am
 A internet é uma rede de redes. 
 ```
 
-<img href="https://github.com/iaZe/Estudos/img/network.png">
+<img src="../img/network.png">
 
 A internet foi desenvolvida no final dos anos 60 pelo Departamento de Defesa dos Estados Unidos como um meio de criar uma rede de comunicação descentralizada que pudesse resistir a um ataque nuclear. Ao longo dos anos evouiu para uma rede comercial e hoje é usada para diversas finalidades.
 
