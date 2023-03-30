@@ -4,7 +4,9 @@
 
 O Domain Name System (DNS) é a lista telefônica da internet. O DNS converte os nomes de domínio ("google.com") em endereços IP ("216.58.210.142") para que os navegadores possam carregar os recursos da web.
 
-<img src="https://cf-assets.www.cloudflare.com/slt3lc6tev37/5exJlPlwAT2kQCITQhrIi9/1f771294e218b64c0490e83968075766/what_is_dns.png">
+<center>
+<img src="https://cf-assets.www.cloudflare.com/slt3lc6tev37/5exJlPlwAT2kQCITQhrIi9/1f771294e218b64c0490e83968075766/what_is_dns.png" width="400px">
+</center>
 
 ## Como funciona o DNS?
 
@@ -16,7 +18,9 @@ Um DNS resolver é um servidor que armazena registros de DNS e responde a consul
 
 Quando você digita um nome de domínio em seu navegador, seu computador primeiro verifica seu cache local para ver se ele já tem o endereço IP. Se não, ele envia uma consulta ao DNS resolver mais próximo, que verificará seu próprio cache para ver se tem a resposta. Se não, ele perguntará ao DNS resolver mais próximo, e assim por diante, até que a resposta seja encontrada ou a consulta expire.
 
-<img src="../img/404.png">
+<center>
+<img src="../img/404.png" height="200px">
+</center>
 
 Vamos a um exemplo. Digamos que você queira visitar exemplo.com. aqui está a lista de locais envolvido na consulta DNS:
 
@@ -25,6 +29,8 @@ Vamos a um exemplo. Digamos que você queira visitar exemplo.com. aqui está a l
 <li> Servidores DNS raiz são verificados </li>
 <li> Servidores DNS de domínio de nível superior (Top Level Domain) são verificados </li>
 <li> Servidores DNS de autoridade de domínio são verificados </li>
+
+<br>
 
 <img src="https://cf-assets.www.cloudflare.com/slt3lc6tev37/3NOmAzkfPG8FTA8zLc7Li8/8efda230b212c0de2d3bbcb408507b1e/dns_record_request_sequence_recursive_resolver.png">
 
