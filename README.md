@@ -6,7 +6,8 @@
  Essa será uma documentação das rotas que utilizarei durante o meu aprendizado como desenvolvedor backend.
 </p>
 
-<br><hr>
+<br>
+
 # Jornada
 
 O projeto está em desenvolvimento
