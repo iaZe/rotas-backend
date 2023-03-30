@@ -13,8 +13,8 @@
 O projeto está em desenvolvimento
 
 - [ ] Internet
-  - [x] Introdução a internet
-  - [ ] DNS
+  - [x] [Introdução a internet](/Internet/introducao_internet.md)
+  - [x] [DNS](/Internet/DNS.md)
   - [ ] HTTP
   - [ ] Domínios
   - [ ] Navegadores

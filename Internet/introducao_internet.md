@@ -91,6 +91,7 @@ Ao usar SSL/TLS para proteger a comunicação na internet há alguns conceitos-c
 É importante entender como o SSL/TLS funciona e garantir que seu aplicativo seja projetado para usar SSL/TLS ao transmitir dados confidenciais, como credenciais de login, informações de pagamento e outros dados pessoais. Também é importante obter e manter certificados SSL/TLS válidos para garantir que os dados sejam criptografados corretamente.
 
 <br>
-###### Referências
+
+##### Referências
 Fonte: <https://cs.fyi/guide/how-does-internet-work>
 
