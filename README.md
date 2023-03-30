@@ -13,10 +13,10 @@
 O projeto está em desenvolvimento
 
 - [ ] Internet
-  - [x] [Introdução a internet](/Internet/introducao_internet.md)
+  - [x] [Introdução a internet](/Internet/Internet.md)
   - [x] [DNS](/Internet/DNS.md)
-  - [ ] HTTP
-  - [ ] Domínios
+  - [x] [HTTP](/Internet/HTTP.md)
+  - [ ] [Domínios](/Internet/Domínios.md)
   - [ ] Navegadores
   - [ ] Hospedagem
 - [ ] Aprender uma linguagem de programação
@@ -70,5 +70,10 @@ Como alternativa, consulte a documentação do GitHub em [como criar uma solicit
     </td>
   </tr>
 </table>
+
+## 📝 Atribuição
+
+* [Designs.ai](https://designs.ai/)
+* [Demais atribuições estarão disponíveis nos arquivos onde foram utilizados](#)
 
 [⬆ Voltar ao topo](#Rotas-para-um-backend)<br>

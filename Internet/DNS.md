@@ -113,9 +113,13 @@ O DNS é um protocolo de rede que faz a busca dentro dos resolvers e retorna o e
 
 <br>
 
+[Anterior: Internet](/Internet.md) | [Próximo: O que é HTTP](/Internet/HTTP.md)
+
+<br>
+
 ##### Referências
-Fonte: <https://cs.fyi/guide/everything-you-need-to-know-about-dns>
-Fonte e imagens: <https://www.cloudflare.com/learning/dns/what-is-dns/>
-Lista de TLD: <https://www.iana.org/domains/root/servers>
+* [cs.fyi](https://cs.fyi/guide/everything-you-need-to-know-about-dns)
+* [Cloudflare](https://www.cloudflare.com/learning/dns/what-is-dns/)
+* [Designs.ai](https://designs.ai/)
 
 

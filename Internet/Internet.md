@@ -92,10 +92,11 @@ Ao usar SSL/TLS para proteger a comunicação na internet há alguns conceitos-c
 
 <br>
 
-Próximo contéudo: [Como funciona o DNS ](/Internet/DNS.md) 
+[Próximo: Como funciona o DNS](/Internet/DNS.md) 
 
 <br>
 
 ##### Referências
-Fonte: <https://cs.fyi/guide/how-does-internet-work>
+
+* [cs.fyi](https://cs.fyi/guide/how-does-internet-work)
 
