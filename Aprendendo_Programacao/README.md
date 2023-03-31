@@ -14,7 +14,10 @@ Escolha uma linguagem da lista fornecida e certifique-se de aprender suas peculi
  - [ ] C#
  - [ ] PHP
  - [ ] JavaScript
- - [ ] Python
+ - [ ] [Python](/Aprendendo_Programacao/Python/)
+    ```
+    A lista de python será explicada em breve, o foco agora será aprender algo novo.
+    ```
  - [ ] Ruby
 
 ## 📝 Atribuição
