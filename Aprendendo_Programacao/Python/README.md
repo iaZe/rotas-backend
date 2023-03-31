@@ -10,4 +10,4 @@
 
 ## 📝 Atribuição
 
-* [Demais atribuições estarão disponíveis nos arquivos onde foram utilizados](#)
+* [Atribuições estarão disponíveis nos arquivos onde foram utilizados](#)

@@ -13,6 +13,6 @@ A Internet é uma rede global de computadores conectados entre si que se comunic
 
 ## 📝 Atribuição
 
-* [Demais atribuições estarão disponíveis nos arquivos onde foram utilizados](#)
+* [Atribuições estarão disponíveis nos arquivos onde foram utilizados](#)
 
 [⬆ Voltar ao topo](#Internet)<br>

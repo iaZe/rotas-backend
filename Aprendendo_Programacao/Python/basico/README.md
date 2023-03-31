@@ -16,4 +16,4 @@ Python é uma linguagem de programação de alto nível, interpretada e de uso g
 
 ## 📝 Atribuição
 
-* [Demais atribuições estarão disponíveis nos arquivos onde foram utilizados](#)
+* [Atribuições estarão disponíveis nos arquivos onde foram utilizados](#)

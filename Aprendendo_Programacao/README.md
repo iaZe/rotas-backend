@@ -22,6 +22,6 @@ Escolha **uma linguagem** da lista fornecida e certifique-se de aprender suas pe
 
 ## 📝 Atribuição
 
-* [Demais atribuições estarão disponíveis nos arquivos onde foram utilizados](#)
+* [Atribuições estarão disponíveis nos arquivos onde foram utilizados](#)
 
 [⬆ Voltar ao topo](#Liguagem-de-Programação)<br>
