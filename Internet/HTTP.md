@@ -229,7 +229,7 @@ O QUIC usa TLS 1.3 para estabelecer uma conexão segura entre cliente e servidor
 
 <br>
 
-[Anterior: DNS](/Internet/DNS.md) | [Próximo: Dominio](/Internet/Dominio.md) 
+[Anterior: DNS](/Internet/DNS.md) | [Próximo: Dominios e nomes](/Internet/Dominio.md) 
 
 #### Referências
 

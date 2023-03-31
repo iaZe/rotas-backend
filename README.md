@@ -16,8 +16,8 @@ O projeto está em desenvolvimento
   - [x] [Introdução a internet](/Internet/Internet.md)
   - [x] [DNS](/Internet/DNS.md)
   - [x] [HTTP](/Internet/HTTP.md)
-  - [ ] [Domínios](/Internet/Domínios.md)
-  - [ ] Navegadores
+  - [x] [Domínios](/Internet/Domínios.md)
+  - [ ] [Navegadores](/Internet/Navegadores.md)
   - [ ] Hospedagem
 - [ ] Aprender uma linguagem de programação
 <!-- - [ ] Sistemas de controle de versão
