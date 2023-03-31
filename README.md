@@ -8,17 +8,17 @@
 
 <br>
 
-# Jornada
+# 📍 Jornada
 
 O projeto está em desenvolvimento
 
-- [ ] Internet
+- [ ] [Internet](/Internet/)
   - [x] [Introdução a internet](/Internet/Internet.md)
   - [x] [DNS](/Internet/DNS.md)
   - [x] [HTTP](/Internet/HTTP.md)
   - [x] [Domínios](/Internet/Domínios.md)
-  - [ ] [Navegadores](/Internet/Navegadores.md)
-  - [ ] Hospedagem
+  - [x] [Navegadores](/Internet/Navegadores.md)
+  - [ ] [Hospedagem](/Internet/Hospedagem.md)
 - [ ] Aprender uma linguagem de programação
 <!-- - [ ] Sistemas de controle de versão
 - [ ] Sistemas Operacionais e conhecimento geral
