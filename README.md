@@ -12,16 +12,10 @@
 
 O projeto está em desenvolvimento
 
-- [ ] [Internet](/Internet/)
-  - [x] [Introdução a internet](/Internet/Internet.md)
-  - [x] [DNS](/Internet/DNS.md)
-  - [x] [HTTP](/Internet/HTTP.md)
-  - [x] [Domínios](/Internet/Domínios.md)
-  - [x] [Navegadores](/Internet/Navegadores.md)
-  - [ ] [Hospedagem](/Internet/Hospedagem.md)
-- [ ] Aprender uma linguagem de programação
-<!-- - [ ] Sistemas de controle de versão
-- [ ] Sistemas Operacionais e conhecimento geral
+- [x] [Internet](/Internet/)
+- [ ] [Aprender uma linguagem de programação](/Linguagem_de_programação/)
+- [ ] Sistemas de controle de versão
+<!-- - [ ] Sistemas Operacionais e conhecimento geral
 - [ ] Banco de dados relacionais
 - [ ] Banco de dados não relacionais
 - [ ] Mais sobre banco de dados

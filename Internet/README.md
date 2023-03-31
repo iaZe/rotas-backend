@@ -9,7 +9,7 @@ A Internet é uma rede global de computadores conectados entre si que se comunic
   - [x] [HTTP](HTTP.md)
   - [x] [Domínios](Domínios.md)
   - [x] [Navegadores](Navegadores.md)
-  - [ ] [Hospedagem](Hospedagem.md)
+  - [x] [Hospedagem](Hospedagem.md)
 
 ## 📝 Atribuição
 

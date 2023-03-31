@@ -43,7 +43,7 @@ Após um nome de domínio ser registrado, o registrar é responsável por notifi
 
 <br>
 
-[Anterior: HTTP e sua história](/HTTP.md) | [Próximo: Navegadores](/Navegadores.md)
+[Anterior: HTTP e sua história](/HTTP.md) | [Próximo: Navegadores](/Internet/Navegadores.md)
 
 <br>
 

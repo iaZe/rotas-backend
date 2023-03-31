@@ -185,6 +185,6 @@ O mecanismo de renderização é o coração do navegador. Ele é responsável p
 
 ## Referências
 
-[Google Web.Dev](https://web.dev/howbrowserswork/)
-[BrowserStack](https://www.browserstack.com/guide/browser-rendering-engine)
-[W3C](https://www.w3.org)
+* [Google Web.Dev](https://web.dev/howbrowserswork/)
+* [BrowserStack](https://www.browserstack.com/guide/browser-rendering-engine)
+* [W3C](https://www.w3.org)
