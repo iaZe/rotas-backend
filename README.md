@@ -15,8 +15,8 @@ O projeto está em desenvolvimento
 - [x] [Internet](/Internet/)
 - [ ] [Aprender uma linguagem de programação](/Aprendendo_Programacao/)
 - [ ] Sistemas de controle de versão
-<!-- - [ ] Sistemas Operacionais e conhecimento geral
-- [ ] Banco de dados relacionais
+- [ ] Sistemas Operacionais e conhecimento geral
+<!--- [ ] Banco de dados relacionais
 - [ ] Banco de dados não relacionais
 - [ ] Mais sobre banco de dados
 - [ ] Escalabilidade de banco de dados
