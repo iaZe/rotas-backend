@@ -47,7 +47,8 @@ Após um nome de domínio ser registrado, o registrar é responsável por notifi
 
 <br>
 
-##### Referências
+## Referências
+
 * [Cloudfare](https://www.cloudflare.com/learning/dns/what-is-a-domain-name/)
 * [Mozilla](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/What_is_a_domain_name)
 * [Google Domains](https://domains.google/)

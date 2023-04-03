@@ -166,7 +166,7 @@ Demonstramos um pouco sobre o Git e como ele funciona. Também vimos como criar 
 
 <br>
 
-[Proximo: Github](/github.md)
+[Proximo: Github](github.md)
 
 <br>
 

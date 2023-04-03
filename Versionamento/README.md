@@ -4,8 +4,8 @@ Os sistemas de controle de versão/controle de código-fonte permitem que os des
 
 ## 🗄️ Sumário:
 
-- [ ] [Git](Git.md)
-- [ ] [Serviços de Hospedagem de Repositório](github.md)
+- [x] [Git](git.md)
+- [x] [Serviços de Hospedagem de Repositório](github.md)
 
 ## 📝 Atribuição
 

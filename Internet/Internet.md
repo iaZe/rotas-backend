@@ -96,7 +96,7 @@ Ao usar SSL/TLS para proteger a comunicação na internet há alguns conceitos-c
 
 <br>
 
-##### Referências
+## Referências
 
 * [cs.fyi](https://cs.fyi/guide/how-does-internet-work)
 

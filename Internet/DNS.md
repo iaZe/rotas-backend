@@ -123,7 +123,8 @@ O DNS é um protocolo de rede que faz a busca dentro dos resolvers e retorna o e
 
 <br>
 
-##### Referências
+## Referências
+
 * [cs.fyi](https://cs.fyi/guide/everything-you-need-to-know-about-dns)
 * [Cloudflare](https://www.cloudflare.com/learning/dns/what-is-dns/)
 * [Designs.ai](https://designs.ai/)
