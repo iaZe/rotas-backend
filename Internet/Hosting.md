@@ -54,7 +54,7 @@ O termo "dinâmico" significa que o servidor processa o conteúdo ou gera a part
 
 <br> 
 
-[Anterior: Hospedagem](/Internet/Hosting.md) | [Próximo: HTTP](/Aprendendo_Programacao/)
+[Anterior: Hospedagem](/Internet/Hosting.md) | [Próximo: Aprendendo programação](/Aprendendo_Programacao/)
 
 <br>
 

@@ -29,7 +29,7 @@ O projeto está em desenvolvimento
 - [ ] Principios de desenvolvimento e design
 - [ ] Padrões de arquitetura
 - [ ] Message Brokers
-- [ ] Virtualização e containers
+- [ ] Virtualização e Conteinerização
 - [ ] GraphQL
 - [ ] WebSockets
 - [ ] Server-sent events
