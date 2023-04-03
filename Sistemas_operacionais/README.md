@@ -7,7 +7,7 @@ Sistema operacional é um programa que gerencia os recursos de um computador, es
 - [x] [Introdução a sistemas operacionais](Sistemas_operacionais.md)
 - [x] [POSIX](POSIX.md)
 - [x] [Uso do Terminal](Terminal.md)
-- [ ] [Comandos Básicos](Comandos_basicos.md)
+- [x] [Comandos Básicos](Comandos_basicos.md)
 - [ ] [Conhecimentos de Sistemas Operacionais](Conhecimentos_do_sistema.md)
     - [ ] [Como os sistemas operacionais funcionam](Como_os_sistemas_operacionais_funcionam.md)
     - [ ] [Gerenciamento de memória](Gerenciamento_de_memoria.md)
