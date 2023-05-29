@@ -38,3 +38,13 @@ O Shell é um processo que executa funções de leituras de comandos de entrada 
 ### Apliações
 
 As aplicações são os programas que utilizam as funções do sistema operacional para realizar tarefas específicas. Por exemplo, um editor de texto, um navegador de internet, um player de música, etc.
+
+<br>
+
+[Próximo: Gerenciamento de memória](Gerenciamento_de_memoria.md)
+
+<br>
+
+## Referências
+
+* [TutorialsPoint](https://www.tutorialspoint.com/operating_system/os_overview.htm)
