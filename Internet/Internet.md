@@ -4,7 +4,7 @@
 
 Antes de entender a internet, precisamos entender as redes. Uma rede é um conjunto de dispositivos conectados uns aos outros. 
 
-Você em sua casa pode pode ter uma rede de computadores e dispositivios. Seu amigo pode ter uma rede de computadores e dispositivos. Todas essas redes quando conectadas formam a internet.
+Você em sua casa pode ter uma rede de computadores e dispositivios. Seu amigo pode ter uma rede de computadores e dispositivos. Todas essas redes quando conectadas formam a internet.
 
 ```
 A internet é uma rede de redes. 
@@ -12,7 +12,7 @@ A internet é uma rede de redes.
 <p align="center">
 <img src="../img/network.png" height="250px">
 </p>
-A internet foi desenvolvida no final dos anos 60 pelo Departamento de Defesa dos Estados Unidos como um meio de criar uma rede de comunicação descentralizada que pudesse resistir a um ataque nuclear. Ao longo dos anos evouiu para uma rede comercial e hoje é usada para diversas finalidades.
+A internet foi desenvolvida no final dos anos 60 pelo Departamento de Defesa dos Estados Unidos como um meio de criar uma rede de comunicação descentralizada que pudesse resistir a um ataque nuclear. Ao longo dos anos evoluiu para uma rede comercial e hoje é usada para diversas finalidades.
 
 ## Como funciona a internet
 
@@ -67,7 +67,9 @@ HTTPS é uma versão segura do HTTP que criptografa os dados transmitidos entre 
 
 ## Construindo Aplicações com TCP/IP
 
-TCP/IP (Transmission Control Protocol/Internet Protocol) é o protocolo de comunicação subjacente usado pela maioria das aplicações da Internet. Ele fornece uma entrega de dados confiável, ordenada e com verificação de erros entre aplicativos em diferentes dispositivos.
+TCP/IP (Transmission Control Protocol/Internet Protocol) é o protocolo de comunicação subjacente usado pela maioria das aplicações da internet. Foi desenvolvido nos anos 70 pela DARPA (Agência de Pesquisa Avançada da Defesa dos EUA). O modelo TCP/IP se tornou o protocolo padrão da ARPAnet, a precursora da internet moderna. Ele fornece uma entrega de dados confiável, ordenada e com verificação de erros.
+
+O TCP/IP determina como os computadores transferem dados de um dispositivo para outro. Para garantir que cada comunicação chegue intacta ao destino, ele divide os dados em pacotes que são remontados para formar a mensagem completa no receptor. Enviar dados em pequenos pacotes facilita manter a precisão do envio, em vez de enviar todos os dados de uma vez.
 
 Ao criar aplicativos com TCP/IP, há alguns conceitos-chave a serem compreendidos:
 
