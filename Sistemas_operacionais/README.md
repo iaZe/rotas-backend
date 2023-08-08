@@ -13,6 +13,6 @@ Sistema operacional é um programa que gerencia os recursos de um computador, es
     - [x] [Gerenciamento de memória](Conhecimentos_de_Sistemas_Operacionais/Gerenciamento_de_memoria.md)
     - [x] [Comunicação entre processos](Conhecimentos_de_Sistemas_Operacionais/Comunicacao_entre_processos.md)
     - [x] [Gerenciamento de I/O](Conhecimentos_de_Sistemas_Operacionais/Gerenciamento_de_I_O.md)
-    - [ ] [Conceitos básicos de Networking](Conhecimentos_de_Sistemas_Operacionais/Conceitos_basicos_de_Networking.md)
+    - [x] [Conceitos básicos de Networking](Conhecimentos_de_Sistemas_Operacionais/Conceitos_basicos_de_Networking.md)
     - [ ] [Threads e Simultaneidade](Conhecimentos_de_Sistemas_Operacionais/Threads_e_simultaneidade.md)
     - [ ] [Gerenciamento de processos](Conhecimentos_de_Sistemas_Operacionais/Gerenciamento_de_processos.md)
